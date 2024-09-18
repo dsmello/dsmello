@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dsmello, a noob at many things but if need help, just ask. 
 - 👀 I’m interested in Python, Golang, DevOps and how to help people to get their first job.
-- 🌱 I’m currently learning Golang, Web development.
-- 💞️ I’m looking to collaborate on opensources project and how to incentivate companies to sponser. 
 - 📫 How to reach me just send msg here or at my [linkedin](https://www.linkedin.com/in/ds-mello/) 
 
 <!---
